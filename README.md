@@ -6,6 +6,10 @@ This is a small locker app for Android. It allows to hard-lock the phone screen 
 ## How to use
 For the first time, the app will ask for the necessary permissions. If these permissions are granted, every next time the app is started, the screen gets immediately hard-locked.
 
+
+![Screenshot](docs/Screenshot_1.png)
+![Screenshot](docs/Screenshot_2.png)
+
 ## Permissions
 The app uses the Device Admin in order to ask for the ``force-lock`` permission. Thus, this app has no access to your data, cannot establish a connection to the internet, or do something else.
 
